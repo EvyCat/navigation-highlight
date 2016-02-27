@@ -1,24 +1,92 @@
-html{
+html {
   max-width: 30em;
-  background-color: #ffe400;
 }
 
-::before, ::after{
+::before, ::after {
   box-sizing: inherit;
 }
 
-h1{
+header{
+background-color: #ffe400;
+display: block;
+border-top: 3px;
+border-bottom: 3px;
+}
+
+body{
+  margin: 0;
+}
+
+h1 {
+  background-color: #ffe400;
   text-align: center;
   color: #b21353;
   font-family: 'Sigmar One', cursive;
   text-transform: uppercase;
   font-size: 3rem;
+  padding: 0;
+  margin: 0;
+
 }
 
-nav li{
+nav li {
   display: inline-block;
+  background-color: #ffe400;
   text-align: center;
+  color: #fff;
+  background-color: #ffe400;
   max-width: 30em;
-  color: #ffffff
+  font-family: georgia, serif;
+}
+nav ul{
+  margin-top: 0;
+}
 
+nav{
+  padding-bottom: .75em;
+}
+
+nav a {
+  color: #fff;
+  padding: .5em;
+  display: inline-block;
+  background-color: #b2a212;
+  text-align: center;
+  border-radius: 5px;
+  text-decoration: none;
+}
+a,
+a:link{
+  background-color: #b2a212;
+}
+a:hover{
+background-color: #b20953;
+}
+
+h2{
+  font-family: 'Sigmar One', cursive;
+  text-transform: uppercase;
+  color: #b21353;
+  text-align: center;
+  font-size: 1.875rem;
+  line-height: 1.5em;
+}
+
+main, p{
+font-family: georgia,serif;
+padding: .5em;
+font-size: 1.125rem;
+line-height: 1.5em;
+}
+
+footer{
+  background-color: #ffe400;
+  text-align: center;
+  padding-bottom: 1em;
+  font-size: 0.75rem;
+  padding-top: .5em;
+}
+
+img{
+  width: 100%;
 }
