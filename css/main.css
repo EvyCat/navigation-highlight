@@ -9,8 +9,8 @@ html {
 header {
   background-color: #ffe500;
   display: block;
-  border-top: 3px;
-  border-bottom: 3px;
+  border-top: 1px;
+  border-bottom: 1px;
 }
 
 body {
@@ -21,10 +21,10 @@ h1 {
   background-color: #ffe500;
   text-align: center;
   color: #b20953;
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   text-transform: uppercase;
   font-size: 2.50rem;
-  padding: 0;
+  padding: .25;
   margin: 0;
 
 }
@@ -36,7 +36,7 @@ nav li {
   color: #fff;
   background-color: #ffe500;
   max-width: 30em;
-  font-family: georgia, serif;
+  font-family: "georgia", serif;
   padding-bottom: .25em;
   margin-top: 2em;
 
@@ -52,7 +52,7 @@ nav {
 
 nav a {
   color: #fff;
-  padding: .75em;
+  padding: .5em;
   display: inline-block;
   background-color: #b2a212;
   text-align: center;
