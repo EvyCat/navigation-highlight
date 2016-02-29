@@ -38,7 +38,7 @@ nav li {
   max-width: 30em;
   font-family: georgia, serif;
   padding-bottom: .25em;
-  margin-top: 1em;
+  margin-top: 2em;
 
 }
 
@@ -52,7 +52,7 @@ nav {
 
 nav a {
   color: #fff;
-  padding: .5em;
+  padding: .75em;
   display: inline-block;
   background-color: #b2a212;
   text-align: center;
