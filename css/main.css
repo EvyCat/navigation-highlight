@@ -9,8 +9,8 @@ html {
 header {
   background-color: #ffe500;
   display: block;
-  border-top: 1px;
-  border-bottom: 1px;
+  border-top: 3px;
+  border-bottom: .25px;
 }
 
 body {
@@ -24,9 +24,9 @@ h1 {
   font-family: "Sigmar One", cursive;
   text-transform: uppercase;
   font-size: 2.50rem;
-  padding: .25;
+  padding: .25px;
   margin: 0;
-
+  padding-top: .25em;
 }
 
 nav li {
