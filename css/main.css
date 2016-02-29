@@ -37,7 +37,8 @@ nav li {
   background-color: #ffe500;
   max-width: 30em;
   font-family: georgia, serif;
-  padding-top: 1em;
+  padding-bottom: .25em;
+
 }
 
 nav ul {
