@@ -37,7 +37,6 @@ nav li {
   max-width: 30em;
   font-family: georgia, serif;
   padding-bottom: .25em;
-  padding-top: .25em;
 }
 
 nav ul {
@@ -71,7 +70,7 @@ h2 {
   font-family: 'Sigmar One', cursive;
   text-transform: uppercase;
   color: #cc1465;
-  font-size: 1.675rem;
+  font-size: 1.875rem;
   line-height: 2em;
 
 }
