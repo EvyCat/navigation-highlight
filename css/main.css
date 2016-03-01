@@ -25,7 +25,6 @@ h1 {
   text-transform: uppercase;
   font-size: 2.50rem;
   margin: 0;
-  padding-top: .25em;
 }
 
 nav li {
@@ -36,7 +35,7 @@ nav li {
   background-color: #ffe500;
   max-width: 30em;
   font-family: "georgia", serif;
-  padding-bottom: .25em;
+  padding-bottom: .50em;
 
 }
 
@@ -57,7 +56,6 @@ nav a {
   text-align: center;
   border-radius: 5px;
   text-decoration: none;
-  margin-bottom: 6px;
 }
 
 a,
@@ -70,7 +68,7 @@ a:hover {
 }
 
 h2 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   text-transform: uppercase;
   color: #cc1465;
   font-size: 1.875rem;
