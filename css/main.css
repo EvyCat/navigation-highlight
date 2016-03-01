@@ -22,8 +22,7 @@ h1 {
   text-align: center;
   color: #b20953;
   font-family: "Sigmar One", cursive;
-  text-transform: uppercase;
-  font-size: 2.50rem;
+  font-size: 3rem;
   margin: 0;
 }
 
@@ -58,6 +57,9 @@ nav a {
   text-decoration: none;
 }
 
+nav .current {
+  background-color: green;
+}
 a,
 a:link {
   background-color: #b2a212;
@@ -69,7 +71,6 @@ a:hover {
 
 h2 {
   font-family: "Sigmar One", cursive;
-  text-transform: uppercase;
   color: #cc1465;
   font-size: 1.875rem;
   line-height: 1em;
