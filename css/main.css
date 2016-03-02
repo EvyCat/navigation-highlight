@@ -60,6 +60,7 @@ nav a {
 nav .current {
   background-color: green;
 }
+
 a,
 a:link {
   background-color: #b2a212;
