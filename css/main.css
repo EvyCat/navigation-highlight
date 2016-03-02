@@ -48,16 +48,16 @@ nav {
 
 nav a {
   color: #fff;
-  padding: .5em;
+  padding: .75em;
   display: inline-block;
-  background-color: #cc1465;
+  background-color: #b2a212;
   text-align: center;
   border-radius: 5px;
   text-decoration: none;
 }
 
 nav .current {
-  background-color: #cc1465 ;
+  background-color: #b20953 ;
 }
 
 a,
