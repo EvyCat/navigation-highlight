@@ -50,14 +50,14 @@ nav a {
   color: #fff;
   padding: .5em;
   display: inline-block;
-  background-color: #b2a212;
+  background-color: #cc1465;
   text-align: center;
   border-radius: 5px;
   text-decoration: none;
 }
 
 nav .current {
-  background-color: #b20953 ;
+  background-color: #cc1465 ;
 }
 
 a,
@@ -71,7 +71,7 @@ a:hover {
 
 h2 {
   font-family: "Sigmar One", cursive;
-  color: #cc1465;
+  color: #b20953;
   font-size: 1.875rem;
   line-height: 1em;
 }
