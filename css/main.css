@@ -43,7 +43,6 @@ nav ul {
 }
 
 nav {
-  padding-bottom: 0em;
   margin: 2px;
 }
 
@@ -58,7 +57,7 @@ nav a {
 }
 
 nav .current {
-  background-color: green;
+  background-color: #b20953 ;
 }
 
 a,
@@ -72,7 +71,7 @@ a:hover {
 
 h2 {
   font-family: "Sigmar One", cursive;
-  color: #cc1465;
+  color: #b20953;
   font-size: 1.875rem;
   line-height: 1em;
 }
